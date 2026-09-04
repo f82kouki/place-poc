@@ -1,0 +1,18 @@
+# APIキー。⚠️ 最優先。PoC作戦書 §7（撤収時もキー文字列はここに残る）
+.env
+.env.*
+!.env.example
+
+# 実行結果の生JSON。店舗データが入るので既定では追跡しない。
+# 判定の証跡として残したくなったら、この2行を消す（PoC作戦書 §6）
+results/*.json
+results/*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS
+.DS_Store
