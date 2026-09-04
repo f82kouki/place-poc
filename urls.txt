@@ -38,3 +38,7 @@ H1
 T1	https://maps.app.goo.gl/x9ma4wFCX3qDEgA29	挽肉と米 吉祥寺
 T2	https://maps.app.goo.gl/S4DjT5wysk9wG1jT7	イオンシネマ多摩センター
 T3	https://maps.app.goo.gl/5US1Wa7UFZXv5uVN7	パルテノン多摩
+T4	https://maps.app.goo.gl/u9x7jPwNe9sTTXRU6	ジョイフル東京稲城店
+T5	https://maps.app.goo.gl/djf38KgheyHYZXHr8	松屋 新百合ヶ丘店
+T6	https://maps.app.goo.gl/nWshoYmqarxiYfkb6	イタリア食堂 ポルチェリーノ 新百合ヶ丘店
+T7	https://maps.app.goo.gl/VMd55xmapk7b7TAh9	生姜料理 しょうが
